@@ -33,3 +33,7 @@ Shapes and pixels can be mixed in one character; overlaps merge.
 - `js/ttf.js` — TrueType writer (no dependencies)
 - `js/outline.js` — turns pixels, lines and arcs into outlines (shared by the editor, preview and export)
 - `js/app.js` — the editor and preview
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).
